@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on</title><link>https://paretile.com/categories/</link><description>Recent content in Categories on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>paretile@gmail.com (Paretile)</managingEditor><webMaster>paretile@gmail.com (Paretile)</webMaster><copyright>© 2024 Paretile</copyright><atom:link href="https://paretile.com/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://paretile.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>paretile@gmail.com (Paretile)</managingEditor>
+    <webMaster>paretile@gmail.com (Paretile)</webMaster>
+    <copyright>© 2024 Paretile</copyright>
+    <atom:link href="https://paretile.com/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
