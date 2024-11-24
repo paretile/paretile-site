@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "Paretile"
 
 [params]
 displayName = "EN"
@@ -17,10 +17,7 @@ name = "Paretile"
 email = "paretile@gmail.com"
 headline = "Hanging out at the intersection of sports, technology, and psychology."
 
-[[params.author.links]]
-name = "x-twitter"
-url = "https://x.com/paretile"
-
-[[params.author.links]]
-name = "github"
-url = "https://github.com/paretile"
+links = [
+  { x-twitter = "https://x.com/paretile" },
+  { github = "https://github.com/paretile" }
+]
